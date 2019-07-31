@@ -1,0 +1,8 @@
+ nombre            Jaime
+ domicilio            eoeooe
+ numero de telefono   33333
+ correo               mmfmfmf
+ experencia           popo
+ Habilidades          popo
+ Lenguajes            java
+ Idiomas              ingles

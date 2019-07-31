@@ -1,0 +1,15 @@
+nombre            jaime alejandro sanchez laguna
+ 
+domicilio            zapopan
+ 
+numero de telefono   333333
+ 
+correo               jaime@sanchez.com
+ 
+experencia           nada	
+ 
+Habilidades          muchas
+ 
+Lenguajes            java php 
+ 
+Idiomas               español mate
